@@ -1,4 +1,4 @@
-# Chat with PDF Repository
+# Chat with PDF using LLM 
 This repository contains code to enable chatting with a PDF using large language modeling. 
 ## The application integrates : 
   * Streamlit 
