@@ -29,3 +29,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+### outline : 
+
+![photo](outline.png)
